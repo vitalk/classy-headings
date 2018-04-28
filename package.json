@@ -1,0 +1,24 @@
+{
+  "name": "classy-heading",
+  "version": "0.2.0",
+  "description": "Classy double-stranded heading hierarchy",
+  "main": "heading.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalk/classy-headings.git"
+  },
+  "keywords": [
+    "css",
+    "oocss",
+    "heading"
+  ],
+  "author": "Vital Kudzelka <vital.kudzelka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitalk/classy-headings/issues"
+  },
+  "homepage": "https://github.com/vitalk/classy-headings#readme"
+}
